@@ -14,6 +14,9 @@ export default function Home() {
             <li>
                 <Link href="/gpu-instancing">GPU Instancing Example</Link>
             </li>
+            <li>
+                <Link href="/mouse-actions">マウス操作と連動したExample</Link>
+            </li>
         </ul>
     </main>
   )
